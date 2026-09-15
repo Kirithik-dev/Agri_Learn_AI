@@ -10,10 +10,10 @@
 ---
 
 ## 👥 Team Members
-- **Karuppusamy S** – Team Leader (*RAG Architecture & LLM Engineering*)
-- **Vivin KG** – Team Member (*Backend FastAPI & Vector Store*)
-- **Nishanth R** – Team Member (*Frontend UI/UX & Interactive Design*)
-- **Kirithik M** – Team Member (*Agricultural Grounding & Evaluation Suite*)
+- **Karuppusamy S** – Team Leader 
+- **Vivin KG** – Team Member 
+- **Nishanth R** – Team Member
+- **Kirithik M** – Team Member
 
 ---
 
